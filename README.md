@@ -46,7 +46,7 @@ def read_unitl(s, until):
 
     return res
 ```
-**Wichtig**: Ihr benötigt `pyserial` um eine serielle Verbundung herzusellen. Dieses Paket könnt ihr etwa mit `pip` installieren:
+**Wichtig**: Ihr benötigt `pyserial` um eine serielle Verbindung herzustellen. Dieses Paket könnt ihr etwa mit `pip` installieren:
 ```bash
 pip install pyserial
 ```
